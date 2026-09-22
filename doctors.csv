@@ -1,0 +1,25 @@
+﻿doctor_id,doctor_name,department_id,specialization,joining_date
+2001,Dr. Vikram Mishra,5,Pediatrics,2021-12-31
+2002,Dr. Rahul Iyer,1,Cardiology,2022-10-23
+2003,Dr. Aarav Verma,3,Orthopedic Surgery,2023-06-30
+2004,Dr. Rohan Sharma,1,Interventional Cardiology,2024-12-12
+2005,Dr. Sneha Mishra,2,Neurosurgery,2022-10-28
+2006,Dr. Priya Nair,2,Neurosurgery,2019-12-14
+2007,Dr. Rohan Verma,1,Interventional Cardiology,2019-12-01
+2008,Dr. Ishita Mishra,3,Sports Medicine,2023-12-16
+2009,Dr. Sanjay Gupta,4,Internal Medicine,2022-11-14
+2010,Dr. Arjun Nair,4,General Physician,2024-11-28
+2011,Dr. Nikhil Reddy,6,Dermatology,2023-06-07
+2012,Dr. Vivaan Sharma,5,Pediatrics,2022-05-19
+2013,Dr. Rohan Iyer,2,Neurosurgery,2022-09-05
+2014,Dr. Aarav Kapoor,1,Cardiology,2020-12-20
+2015,Dr. Sneha Pillai,2,Neurology,2024-08-11
+2016,Dr. Priya Kumar,5,Neonatology,2019-06-23
+2017,Dr. Aarav Yadav,4,Internal Medicine,2022-07-06
+2018,Dr. Kavya Malhotra,5,Neonatology,2023-09-07
+2019,Dr. Arjun Das,3,Orthopedic Surgery,2022-08-23
+2020,Dr. Divya Yadav,2,Neurosurgery,2019-12-27
+2021,Dr. Arjun Rao,4,General Physician,2023-06-29
+2022,Dr. Aditya Das,5,Neonatology,2022-10-22
+2023,Dr. Ananya Verma,2,Neurology,2024-09-21
+2024,Dr. Arjun Bose,6,Dermatology,2022-12-02
